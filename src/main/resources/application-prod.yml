@@ -1,0 +1,11 @@
+server:
+  port: 8088
+taoke:
+  alipay_money1: 打开支付宝首页搜索“549230077” 立即领红包
+  alipay_money2: 打开支付宝首页搜索“546600226” 立即领红包
+  session: 700001011079035858e1569d946e6e833c7acc2a722c4e2f778803e6fa89de02804dd162588177705
+  adzone_id: 509972671
+  site_id: 44888320
+  goods_request_url: http://gateway.kouss.com/tbpub/privilegeGet
+  tkl_request_url: http://gateway.kouss.com/tbpub/tpwdCreate
+http://active.chttp://active.chinapy  tkl_jx_url: http://api.chaozhi.hk/tb/tklParse
